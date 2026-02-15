@@ -56,7 +56,7 @@ Missing values were handled using imputation techniques.
 
 ---
 
-## 🧹 Data Preprocessing
+## Data Preprocessing
 
 The following preprocessing steps were performed:
 
@@ -142,7 +142,7 @@ SHAP analysis validated that behavioral intensity plays a significant role in de
 
 ---
 
-## 🚀 How to Run This Project
+## How to Run This Project
 
 ```bash
 # Clone repository

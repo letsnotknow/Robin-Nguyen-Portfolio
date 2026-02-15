@@ -89,6 +89,13 @@ The schema is normalized to ensure data integrity and eliminate redundancy.
 - A segment of issued cards remains inactive, representing monetization opportunity.
 
 ---
+## Business Insights & Implications
+
+- Revenue concentration analysis revealed dependency on a small segment of high-value customers, indicating potential churn risk exposure.
+- Revenue-per-doctor analysis highlighted variation in productivity, suggesting opportunities for workload rebalancing.
+- Department-level revenue comparison identified performance disparities that may influence staffing and investment decisions.
+- Identification of inactive customers and unused cards suggests potential growth and re-engagement opportunities.
+---
 
 ## SQL Techniques Demonstrated
 
