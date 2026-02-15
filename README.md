@@ -1,60 +1,90 @@
-# 📁 Data Science Portfolio – Robin
-
-Welcome! I'm Robin — a data science enthusiast passionate about extracting insights from data and building real-world machine learning solutions. This portfolio showcases my projects, from exploratory analysis to advanced model explainability.
-
----
-
-## Featured Project: **Introvert vs. Extrovert Personality Classifier**
-
-### Project Summary
-Using behavioral and social indicators, this project classifies individuals as **Introverts** or **Extroverts** using machine learning models and SHAP explainability.
-
-- **Dataset**: 2,900 entries, 9 features + engineered variables
-- **Models**: Logistic Regression, Decision Tree, Random Forest, CatBoost
-- **Best Model**: Tuned Random Forest (F1 score ≈ 0.93)
-- **Key Insight**: `Social Comfort Index` was the most predictive feature
-
-👉 [View Full Project →](./Introvert%20vs.%20Extroverts.ipynb)
-
----
-
-## Skills Demonstrated
-
-- **Data Cleaning & Preprocessing**
-  - Handling missing values with `SimpleImputer`, `KNNImputer`
-  - Encoding categorical variables using `OrdinalEncoder`, `OneHotEncoder`
-  - Feature scaling with `MinMaxScaler`
-  
-- **Feature Engineering**
-  - Created new features (`Social Comfort Index`, `Alone-to-Social Ratio`)
-  - Used domain knowledge to inform transformations
-
-- **Model Building**
-  - Trained multiple classifiers and optimized using `RandomizedSearchCV`
-  - Evaluated with `F1 Score`, `Confusion Matrix`
-
-- **Explainability**
-  - Extracted feature importances
-  - Used `SHAP` to interpret model decisions visually and quantitatively
-
----
-
-## Tools & Libraries
-
-- Python (Pandas, NumPy, Scikit-learn, SHAP, CatBoost, Matplotlib, Seaborn)
-- Jupyter Notebook
-- Version control with Git
-- Model evaluation and explainability techniques
-
----
+# Robin Nguyen – Data Analyst Portfolio
 
 ## About Me
 
-I'm driven by curiosity, a love for problem-solving, and a belief that data can tell powerful stories. I’m currently seeking internship or entry-level roles in:
+I am a data-driven analyst focused on transforming raw data into clear, actionable business insights.
 
-- Machine Learning / AI
-- Data Science
-- Analytics and Research
+My work combines SQL, Python, and business intelligence techniques to analyze operational performance, customer behavior, and financial trends. I am particularly interested in applying analytics to support strategic decision-making and optimize real-world systems.
+
+This portfolio showcases selected projects demonstrating structured problem-solving, technical depth, and business-oriented thinking.
+
+---
+
+## Core Skills
+
+**Data Analysis**
+- SQL (advanced joins, CTEs, window functions)
+- Python (Pandas, NumPy)
+- Exploratory Data Analysis
+- KPI development
+- Business insight generation
+
+**Machine Learning**
+- Supervised classification
+- Model evaluation
+- Feature engineering
+- Explainable AI (SHAP)
+
+**Tools**
+- MySQL
+- Python
+- Scikit-learn
+- Power BI (learning / applying)
+- Git & GitHub
+
+---
+
+## Featured Projects
+
+### 1. Hospital Operational & Financial Analytics System (SQL)
+
+Business Intelligence analysis of hospital operations including revenue performance, doctor productivity, department efficiency, and customer retention.
+
+Key Highlights:
+- Multi-table relational analysis
+- Revenue per doctor KPI
+- Department performance benchmarking
+- Customer segmentation insights
+- Advanced SQL using CTEs and window functions
+
+Technologies: SQL, Relational Database Design
+
+---
+
+### 2. Predicting Personality Type Using Behavioral Data (Machine Learning)
+
+End-to-end machine learning project predicting Introvert vs Extrovert classification using behavioral indicators.
+
+Key Highlights:
+- Data preprocessing and feature engineering
+- Supervised classification modeling
+- Model evaluation using precision/recall
+- Model interpretability using SHAP
+
+Technologies: Python, Scikit-learn, SHAP
+
+---
+
+## Project Focus Areas
+
+My work centers on:
+
+- Revenue and financial analytics
+- Customer behavior analysis
+- Operational efficiency optimization
+- KPI development and performance tracking
+- Data-driven decision support
+
+---
+
+## Current Goals
+
+I am actively strengthening my expertise in:
+
+- Business Intelligence dashboard development
+- Advanced SQL optimization
+- Predictive analytics
+- Real-world data modeling
 
 ---
 
